@@ -12,12 +12,12 @@ import utils
 utils.setup_page("File Merger")
 
 
-st.set_page_config(
-    page_title="File Merger",
-    page_icon="favicon.png",
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+# st.set_page_config(
+#     page_title="File Merger",
+#     page_icon="favicon.png",
+#     layout="wide",
+#     initial_sidebar_state="expanded",
+# )
 
 with st.sidebar:
     # st.title("File Merger")

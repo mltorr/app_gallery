@@ -18,12 +18,12 @@ import utils
 utils.setup_page("PDF Merger")
 
 
-st.set_page_config(
-    page_title="PDF Merger",
-    page_icon="favicon.png",
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+# st.set_page_config(
+#     page_title="PDF Merger",
+#     page_icon="favicon.png",
+#     layout="wide",
+#     initial_sidebar_state="expanded",
+# )
 
 
 def merger(file,filename):

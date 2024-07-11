@@ -35,7 +35,7 @@ import utils
 utils.setup_page("Keword Lookup")
 
 # %%
-st.set_page_config(layout="wide")
+# st.set_page_config(layout="wide")
 
 # %%
 def displayPDF(file):

@@ -10,7 +10,7 @@ utils.setup_page("Vendor Masterlist")
 
 
 
-st.set_page_config(layout='wide',initial_sidebar_state='collapsed',)
+# st.set_page_config(layout='wide',initial_sidebar_state='collapsed',)
 
 def save_uploaded(uploadedfile,filename):
     with open(filename,'wb') as f:

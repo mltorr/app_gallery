@@ -20,11 +20,11 @@ import utils
 utils.setup_page("Lightyear Invoice Extractor")
 
 
-st.set_page_config(
-    page_title="LightYear Automated Invoice Downloader",
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+# st.set_page_config(
+#     page_title="LightYear Automated Invoice Downloader",
+#     layout="wide",
+#     initial_sidebar_state="expanded",
+# )
 
 def wait_element(browser, s, t=20):
     return WebDriverWait(browser, t).until(EC.presence_of_element_located((By.CSS_SELECTOR,s)))

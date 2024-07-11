@@ -11,12 +11,12 @@ import utils
 
 utils.setup_page("BTG - ABN Checker")
 
-st.set_page_config(
-    page_title="BTG - ABN Checker",
-    page_icon="favicon.png",
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+# st.set_page_config(
+#     page_title="BTG - ABN Checker",
+#     page_icon="favicon.png",
+#     layout="wide",
+#     initial_sidebar_state="expanded",
+# )
 
 def generate_excel_download_link(df, fname):
     towrite = BytesIO()

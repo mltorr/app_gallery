@@ -18,11 +18,11 @@ import utils
 utils.setup_page("VHR - New South Wales")
 
 
-st.set_page_config(
-    page_title="Vehicle Registration Lookup",
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+# st.set_page_config(
+#     page_title="Vehicle Registration Lookup",
+#     layout="wide",
+#     initial_sidebar_state="expanded",
+# )
 
 with open('style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)

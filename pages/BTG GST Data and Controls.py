@@ -18,12 +18,12 @@ utils.setup_page("BTG GST Data and Controls")
     #client_erp_system
 
 
-st.set_page_config(
-    page_title="BTG GST Data and Controls Testing",
-    page_icon="favicon.png",
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+# st.set_page_config(
+#     page_title="BTG GST Data and Controls Testing",
+#     page_icon="favicon.png",
+#     layout="wide",
+#     initial_sidebar_state="expanded",
+# )
 
 if 'submitted' not in st.session_state:
     st.session_state.submitted = False

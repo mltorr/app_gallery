@@ -11,12 +11,12 @@ import utils
 
 utils.setup_page("Engagement Letter")
 
-st.set_page_config(
-    page_title="Engagement Letter",
-    page_icon="favicon.png",
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+# st.set_page_config(
+#     page_title="Engagement Letter",
+#     page_icon="favicon.png",
+#     layout="wide",
+#     initial_sidebar_state="expanded",
+# )
 
 def delete_paragraph(paragraph):
     p = paragraph._element
