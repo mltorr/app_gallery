@@ -68,7 +68,7 @@ def remove_invalid_rows(df):
     return df.loc[~(df.drop(columns=['Filename']).apply(lambda row: all(cell == "---" for cell in row), axis=1))]
 
 def main():
-    st.set_page_config(page_title="Invoice Query v0.1")
+    #st.set_page_config(page_title="Invoice Query v0.1")
 
     st.title("Invoice Query v0.1")
 
