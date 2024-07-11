@@ -1,0 +1,209 @@
+cookie:
+  expiry_days: 1
+  key: btg_checklist
+  name: btg_checklist
+credentials:
+  usernames:
+    admin:
+      creation_date: '2023-08-01'
+      date_modified: '2023-08-01'
+      email: ''
+      group: ''
+      name: Admin
+      password: $2b$12$55ErxZASxXWoQbiuLtVP/uaynCq4vlK8/M0U8g2tyTOxAaAGDurjm
+      user_type: Admin
+    aiken.guzman:
+      creation_date: '2024-04-18'
+      date_modified: '2024-04-18'
+      email: aiken.guzman@btgi.com.au
+      group: Preparer
+      name: Aiken Guzman
+      password: $2b$12$dadPXl1LF0NOMBGmsLImLOMtPaKaGL6N9qfS8ROcJL4oSQPhXLUYW
+      user_type: Admin
+    aj.morong:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: aj.morong@btgi.com.au
+      group: Preparer
+      name: AJ Morong
+      password: $2b$12$16Ke/mP9lEHP5R0iixNzpOWPDUICxZSUEMvWPFP1ZpcyuvHscJpaC
+      user_type: User
+    alex.chia:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: alex.chia@btgi.com.au
+      group: Reviewer
+      name: Alex Chia
+      password: $2b$12$FMmXhNzxLRBMaA5s/yUNF.hc6jhVIJ0.IlqbRJV0PL5Rxu9xk0qwq
+      user_type: User
+    aubrey.cabrera:
+      creation_date: '2023-10-17'
+      date_modified: '2023-10-17'
+      email: aubrey.cabrera@btgi.com.au
+      group: Preparer
+      name: Aubrey Cabrera
+      password: $2b$12$dg3Nz3wRhof51AIVhr8bX.LR01M6b.bN.DzGY2MBGXQW3iC7Rt7De
+      user_type: User
+    bhavesh.desai:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: bhavesh.desai@btgi.com.au
+      group: Reviewer
+      name: Bhavesh Desai
+      password: $2b$12$X5PV.FtFjoNRV8M3Aq03ZuTJNFaGT3htlAxGBU8lZ78Jd5T5NEN/W
+      user_type: User
+    brian.desagun:
+      creation_date: '2023-10-17'
+      date_modified: '2023-10-17'
+      email: brian.desagun@btgi.com.au
+      group: Data Team
+      name: Brian Desagun
+      password: $2b$12$APYRJ4HK3n4jfocleWiyP.VyIOhSL7t7ICvco/yCpT/Y41WWVFJf.
+      user_type: User
+    chasey.sison:
+      creation_date: '2024-05-07'
+      date_modified: '2024-05-07'
+      email: chasey.sison@btgi.com.au
+      group: Data Team
+      name: Chasey Sison
+      password: $2b$12$AKUY79wFWRs0KjGRD056Z.a2Bg1t9Ksdt07a2R4okIia/LX2mvHLC
+      user_type: User
+    elsy.asmar:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: elsy.asmar@btgi.com.au
+      group: Reviewer
+      name: Elsy Asmar
+      password: $2b$12$TbdWbcpXssLsHWPGDYcr1ekXHZI7mCtvlBmM7imefIMNT43tlL3Um
+      user_type: User
+    elsy.asmar2:
+      creation_date: '2024-02-20'
+      date_modified: '2024-02-20'
+      email: elsy.asmar@btgi.com.au
+      group: Preparer
+      name: Elsy Asmar
+      password: $2b$12$hq.TPUpgie9PdHzaU/qD1eTtBh1Ntq6a/2wYJaNqIqvrla3aExcT.
+      user_type: User
+    jhunriel.gaspar:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: jhunriel.gaspar@btgi.com.au
+      group: Data Team
+      name: Jhunriel Gaspar
+      password: $2b$12$W9Ac6q3wk2rPaQpAL4.EZ.5e5hfYrM451B84WsK1awbOUvT3rnYvu
+      user_type: Admin
+    joy.guevarra:
+      creation_date: '2024-01-05'
+      date_modified: '2024-01-05'
+      email: joy.guevarra@btgi.com.au
+      group: Preparer
+      name: Joy Guevarra
+      password: $2b$12$CQHX.mfoVbuZsFbpJrw7bO4R4BoVzQ2Gkt8yBkOapvI4mnHq0jHjC
+      user_type: User
+    jude.bonifacio:
+      creation_date: '2023-10-23'
+      date_modified: '2023-10-23'
+      email: jude.bonifacio@btgi.com.au
+      group: Preparer
+      name: Jude Kevin Bonifacio
+      password: $2b$12$uv62vmMnkSDpv234vn6NNO0vEbDjg9skHH7Y/aGrhKKPwPAOvVTSC
+      user_type: User
+    juvy.dejesus:
+      creation_date: '2023-10-23'
+      date_modified: '2023-10-23'
+      email: juvy.dejesus@btgi.com.au
+      group: Preparer
+      name: Juvy De Jesus
+      password: $2b$12$H7hgwKZtwUor6O80Pbtz3OV4874HUJ36ZP3lY8wKJx8mQdwMYDGYG
+      user_type: User
+    kellie.leong:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: kellie.leong@btgi.com.au
+      group: Reviewer
+      name: Kellie Leong
+      password: $2b$12$743S/GkSQI9MKLQ9K4NN9OPaSSLB7Z9RVsvIerLnRRZemYPj0D3Mq
+      user_type: User
+    mark.torres:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: mark.torres@btgi.com.au
+      group: Data Team
+      name: Mark Torres
+      password: $2b$12$dadPXl1LF0NOMBGmsLImLOMtPaKaGL6N9qfS8ROcJL4oSQPhXLUYW
+      user_type: Admin
+    maxzyn.mercurio:
+      creation_date: '2024-06-19'
+      date_modified: '2024-06-19'
+      email: maxzyn.mercurio@btgi.com.au
+      group: Preparer
+      name: Maxzyn Mercurio
+      password: $2b$12$9tHJbkXhMEDPYgJYZsw7KuSNqc2dToP145cAJIfomJWxa7S5.a0Va
+      user_type: User
+    nabil.chammas:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: nabil.chammas@btgi.com.au
+      group: Reviewer
+      name: Nabil Chammas
+      password: $2b$12$dQxY6R24BfPB4gG6gKOL5ub6aAYLBt3lEZOzyPkBzBVF6ePX.OL8C
+      user_type: Admin
+    pearl.cafirma:
+      creation_date: '2023-10-23'
+      date_modified: '2023-10-23'
+      email: pearl.cafirma@btgi.com.au
+      group: Preparer
+      name: Pearl Jane Cafirma
+      password: $2b$12$P4bqvv55NyNY0/hybyAoL.qtO60fHeQQ5mIkGE4JuzJfdiECfl9c.
+      user_type: User
+    reinhard.ramirez:
+      creation_date: '2024-05-07'
+      date_modified: '2024-05-07'
+      email: reinhard.ramirez@btgi.com.au
+      group: Data Team
+      name: Reinhard Ramirez
+      password: $2b$12$.yn/hmcRS6kkoupU/Rz3D.k0ihRbtMGvCaH.CeZbEI2ukrG4o1/lC
+      user_type: User
+    remon.artillaga:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: remong.artillaga@btgi.com.au
+      group: Preparer
+      name: Remon Artillaga
+      password: $2b$12$0Y1TzdLSR89IubrlobSqJOpds8qh7Ltc9l12y0IGN.TPC112ksxD2
+      user_type: User
+    ren.manalo:
+      creation_date: '2023-10-18'
+      date_modified: '2023-10-18'
+      email: ren.manalo@btgi.com.au
+      group: Preparer
+      name: Ren Manalo
+      password: $2b$12$BNHoSW9uENLeEriSuUBh4eroi5GqYO8HL9Y249MciqqN82PSGKUsK
+      user_type: User
+    renzo.galicia:
+      creation_date: '2024-06-19'
+      date_modified: '2024-06-19'
+      email: renzo.galicia@btgi.com.au
+      group: Preparer
+      name: Renzo Galicia
+      password: $2b$12$yCj1WtXqYSOV5PPaAVUn1u0LuZNfxyQsUE/dzADpP7L.dhHZ8Lm/K
+      user_type: User
+    rina.hubilla:
+      creation_date: '2023-11-03'
+      date_modified: '2023-11-03'
+      email: rina.hubilla@btgi.com.au
+      group: Reviewer
+      name: Rina Hubilla
+      password: $2b$12$rIdLJYkqlhTvbC/SLdlJouwvrQsszJ3PmTPKnbOArzBBl69Mpiuwa
+      user_type: User
+    vanya.gowan:
+      creation_date: '2024-06-19'
+      date_modified: '2024-06-19'
+      email: vanya.gowan@btgi.com.au
+      group: Preparer
+      name: Vanya Gowan
+      password: $2b$12$jPJ0ZNtHf9.oLUO8vGqUueLGsyDS8iHxswP0WG5o8ml55zaZnddTS
+      user_type: User
+preauthorized:
+  emails:
+  - jhunriel.gaspar@btgi.com.au
