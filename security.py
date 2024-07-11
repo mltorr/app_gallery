@@ -9,7 +9,7 @@ TENANT_ID = 'e4f18beb-5183-4e96-9089-00c5739245db'
 
 AUTHORITY = f"https://login.microsoftonline.com/{TENANT_ID}"
 SCOPE = ["User.ReadBasic.All"]
-REDIRECT_URI = 'http://localhost:8501/'
+REDIRECT_URI = 'https://apps.btgi.com.au:8503/'
 
 app = msal.ConfidentialClientApplication(CLIENT_ID, authority=AUTHORITY, client_credential=CLIENT_SECRET)
 
