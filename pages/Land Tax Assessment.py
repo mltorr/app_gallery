@@ -78,7 +78,7 @@ def remove_invalid_rows(df):
     return df
 
 def main():
-    st.set_page_config(page_title="AI Land Tax Assessment Extractor")
+    #st.set_page_config(page_title="AI Land Tax Assessment Extractor")
 
     st.title("AI Land Tax Assessment Extractor")
 
