@@ -1,0 +1,15 @@
+App,Description,URL,Category
+ABN Checker,ABN lookup application,https://apps.btgi.com.au:8503/ABN_Checker,GST Recovery
+GST Checklist,Checklist app for GST,https://apps.btgi.com.au:8504/,GST Recovery
+File Merger,Merge multiple Excel or CSV files into one.,https://apps.btgi.com.au:8503/File_Merger,General
+PDF Merger,Merge multiple PDF files into one.,https://apps.btgi.com.au:8503/PDF_Merger,General
+I+,All-in-one platform for everything ATO related,http://btgi-iplus.s3-website-ap-southeast-2.amazonaws.com,Intelligence
+Jupyter HUB,BTG's python development platform,https://apps.btgi.com.au:8000/,General
+Vehicle Registration Lookup,Get Registration details of Vehicles,https://apps.btgi.com.au:8503/Vehicle_Lookup_-_New_South_Wales,FTC Recovery
+BAS PDF Extractor,Scans 1B data from BAS PDF,https://apps.btgi.com.au:8503/BAS_Lodge_Scanner,General
+Light Year, Download Light Year invoices,https://apps.btgi.com.au:8503/Lightyear_Invoice_Extract,Invoice Downloader
+PDF Keyword Lookup, Keyword lookup for PDF,https://apps.btgi.com.au:8503/Keyword_Lookup,General
+Graph Generator,App for generating graphs,https://apps.btgi.com.au:8503/Graph_Generator,General
+Vendor Masterlist,Masterlist creation app,https://apps.btgi.com.au:8503/Vendor_Masterlist,Intelligence
+Engagement Letter,Generation of Engagement Letter,https://apps.btgi.com.au:8503/Engagement_Letter,General
+Excel Splitter,Splits your large excel file,https://apps.btgi.com.au:8503/Excel_Splitter,General
